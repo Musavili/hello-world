@@ -1,2 +1,2 @@
 # hello-world
-Greetings earthlings! Musavili here, I like java & web development. Coffee flows in my veins
+Greetings earthlings! Musavili here, I like java & mobile development. I take coffee for my brain to magically manufacture code.
